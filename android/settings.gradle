@@ -1,0 +1,3 @@
+rootProject.name = 'facebook_atuh'
+
+include ':app'
